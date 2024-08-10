@@ -37,7 +37,7 @@ body {
 }
 .paper.image p {
   font-size: 40px;
-  font-style: bold;
+  font-weight: bold;
 }
 
 img {
